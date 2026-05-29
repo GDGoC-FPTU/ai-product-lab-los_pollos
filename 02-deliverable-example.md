@@ -57,10 +57,10 @@ Chọn top 3 từ danh sách SCAN: **#2 (Xanh SM Sự cố sạc), #4 (Vinhomes 
 │ AI có thể nhảy vào hỗ trợ ở bước nào? Bước 3-4              │
 │ (Tự động hóa lấy vị trí -> Tra cứu trạm trống -> Draft tin) │
 │                                                             │
-│ Đo thành công bằng gì (Metric có số)?                        │
+│ Đo thành công bằng gì (Metric có số)?                       │
 │ Giảm thời gian xử lý sự cố từ 15 phút ──> dưới 3 phút.      │
 │                                                             │
-│ Quick Architecture: [x] LLM Feature (Tự động soạn chỉ dẫn)   │
+│ Quick Architecture: [x] LLM Feature (Tự động soạn chỉ dẫn)  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
